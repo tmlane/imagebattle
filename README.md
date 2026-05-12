@@ -4,7 +4,7 @@ Small single-file image comparison tool.
 
 ## Use
 
-Open `index.html` in a browser.
+Clone this repo, open `index.html` in a browser.
 
 ## Features
 
@@ -15,3 +15,6 @@ Open `index.html` in a browser.
 - Drag to line images up
 - Reset view for the active compare pair
 - Expand the compare area for closer inspection
+
+## Screenshots
+<img width="1066" height="1803" alt="Screenshot of ImageBattle dev tool" src="https://github.com/user-attachments/assets/d0effcec-b463-4741-b8b6-de8942d97019" />
