@@ -1,4 +1,4 @@
-# Image Battle
+# Pic Diff
 
 Small single-file image comparison tool.
 
@@ -17,4 +17,5 @@ Clone this repo, open `index.html` in a browser.
 - Expand the compare area for closer inspection
 
 ## Screenshots
-<img width="1066" height="1803" alt="Screenshot of ImageBattle dev tool" src="https://github.com/user-attachments/assets/d0effcec-b463-4741-b8b6-de8942d97019" />
+<img width="1065" height="1801" alt="Screenshot 2026-05-12 at 5 41 06 PM" src="https://github.com/user-attachments/assets/f2c075c2-e2ee-46ed-8d4c-c4ba30f47b52" />
+
